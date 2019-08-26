@@ -1,0 +1,2 @@
+insert into portfolio (nome, descricao) values("Curso Full stack"," Curso de nodeJS, express, dentre outros");
+insert into portfolio (nome, descricao) values("Sistemas de informção"," Ingressando no mercado de trabalho, express, dentre outros");
